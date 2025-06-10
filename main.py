@@ -1245,6 +1245,7 @@ class NewsAnalyzer:
             "weibo",
             "douyin",
             "zhihu",
+            "odaily.news"
         ]
 
         print(f"开始爬取数据，请求间隔设置为 {self.request_interval} 毫秒")
